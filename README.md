@@ -15,3 +15,8 @@
 ## 03. 미니프로젝트 - 외부 API 연동과 게임 제작
 <img width="2550" height="1301" alt="image" src="https://github.com/user-attachments/assets/81edb8c0-6300-4aae-b3c3-4de4619a74d5" />
 <img width="2552" height="1298" alt="image" src="https://github.com/user-attachments/assets/a79785fd-9684-45ff-8c40-86a1c97ffe1e" />
+
+
+## 04. 미니프로젝트 - Firebase 풀스택 앱
+<img width="2547" height="1306" alt="image" src="https://github.com/user-attachments/assets/ee54f2ea-892b-4044-8e2b-669f04f64921" />
+<img width="2537" height="1301" alt="image" src="https://github.com/user-attachments/assets/723a097f-0aaa-4328-aa30-8efbf07b78ab" />
