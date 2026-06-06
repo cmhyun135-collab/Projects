@@ -13,3 +13,5 @@
 
 
 ## 03. 미니프로젝트 - 외부 API 연동과 게임 제작
+<img width="2550" height="1301" alt="image" src="https://github.com/user-attachments/assets/81edb8c0-6300-4aae-b3c3-4de4619a74d5" />
+<img width="2552" height="1298" alt="image" src="https://github.com/user-attachments/assets/a79785fd-9684-45ff-8c40-86a1c97ffe1e" />
