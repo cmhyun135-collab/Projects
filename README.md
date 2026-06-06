@@ -20,3 +20,8 @@
 ## 04. 미니프로젝트 - Firebase 풀스택 앱
 <img width="2547" height="1306" alt="image" src="https://github.com/user-attachments/assets/ee54f2ea-892b-4044-8e2b-669f04f64921" />
 <img width="2537" height="1301" alt="image" src="https://github.com/user-attachments/assets/723a097f-0aaa-4328-aa30-8efbf07b78ab" />
+
+
+## 05. 미니프로젝트 - AI 심화와 멀티에이전트
+<img width="2538" height="1299" alt="image" src="https://github.com/user-attachments/assets/4d26ad69-bc63-4812-9065-f564fed4ce9f" />
+<img width="2549" height="1295" alt="image" src="https://github.com/user-attachments/assets/0e0a8cf4-8509-4565-a3b8-eac7b4e6370c" />
