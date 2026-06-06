@@ -25,3 +25,9 @@
 ## 05. 미니프로젝트 - AI 심화와 멀티에이전트
 <img width="2538" height="1299" alt="image" src="https://github.com/user-attachments/assets/4d26ad69-bc63-4812-9065-f564fed4ce9f" />
 <img width="2549" height="1295" alt="image" src="https://github.com/user-attachments/assets/0e0a8cf4-8509-4565-a3b8-eac7b4e6370c" />
+
+
+## 06. 파이널 프로젝트
+<img width="2550" height="1297" alt="image" src="https://github.com/user-attachments/assets/fdd13d38-7c62-41d5-821d-57672648d3e9" />
+<img width="2535" height="1297" alt="image" src="https://github.com/user-attachments/assets/148eb587-65ed-4b87-9136-1fe99fc61a8a" />
+<img width="2538" height="1307" alt="image" src="https://github.com/user-attachments/assets/0abb5586-4e81-4d69-a36c-18fe8247e9a4" />
